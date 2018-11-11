@@ -1,2 +1,2 @@
-﻿A simple snake game implementation by use LinkedList
+﻿A simple snake game implementation using linked list
 
